@@ -63,6 +63,7 @@ input {
   box-sizing: border-box;
   transition: all 0.3s;
   font-family: alkatra, sans-serif;
+  margin-bottom: 5px;
 }
 
 input:valid {
