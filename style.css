@@ -108,6 +108,10 @@ button:hover {
     margin: 10px auto 5px;
     font-size: 25px;
   }
+  
+  label{
+    margin-top: 10px;
+    }
 
   #message {
     margin-top: 7px;
